@@ -1,3 +1,3 @@
 # cosmoscout-json:
 
-JSON file for CosmoScout VR
+JSON file with configuration for CosmoScout VR.
